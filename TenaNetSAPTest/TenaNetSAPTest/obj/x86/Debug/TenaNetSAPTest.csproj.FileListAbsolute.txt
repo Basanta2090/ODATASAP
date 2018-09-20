@@ -1,0 +1,12 @@
+c:\users\sevbasa\documents\visual studio 2010\Projects\TenaNetSAPTest\TenaNetSAPTest\bin\Debug\TenaNetSAPTest.exe
+c:\users\sevbasa\documents\visual studio 2010\Projects\TenaNetSAPTest\TenaNetSAPTest\bin\Debug\TenaNetSAPTest.pdb
+c:\users\sevbasa\documents\visual studio 2010\Projects\TenaNetSAPTest\TenaNetSAPTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\sevbasa\documents\visual studio 2010\Projects\TenaNetSAPTest\TenaNetSAPTest\obj\x86\Debug\TenaNetSAPTest.csprojResolveAssemblyReference.cache
+c:\users\sevbasa\documents\visual studio 2010\Projects\TenaNetSAPTest\TenaNetSAPTest\obj\x86\Debug\TenaNetSAPTest.exe
+c:\users\sevbasa\documents\visual studio 2010\Projects\TenaNetSAPTest\TenaNetSAPTest\obj\x86\Debug\TenaNetSAPTest.pdb
+E:\BitbucketDemo\TenaNetSAPTest\TenaNetSAPTest\bin\Debug\TenaNetSAPTest.exe
+E:\BitbucketDemo\TenaNetSAPTest\TenaNetSAPTest\bin\Debug\TenaNetSAPTest.pdb
+E:\BitbucketDemo\TenaNetSAPTest\TenaNetSAPTest\bin\Debug\Newtonsoft.Json.dll
+E:\BitbucketDemo\TenaNetSAPTest\TenaNetSAPTest\obj\x86\Debug\TenaNetSAPTest.csprojResolveAssemblyReference.cache
+E:\BitbucketDemo\TenaNetSAPTest\TenaNetSAPTest\obj\x86\Debug\TenaNetSAPTest.exe
+E:\BitbucketDemo\TenaNetSAPTest\TenaNetSAPTest\obj\x86\Debug\TenaNetSAPTest.pdb
